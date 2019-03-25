@@ -6,8 +6,8 @@ Xft.dpi: 96
 Xft.rgba: rgb
 Xft.lcdfilter: lcddefault
 
-URxvt*font:     xft:Monaco:size=7, xfg:FontAwesome:size=7, xft:Droid Sans Fallback:pixelsize=8:antialias=true
-URxvt*boldFont:     xft:Monaco:bold:size=7, xfg:FontAwesome:size=7, xft:Droid Sans Fallback:pixelsize=8:Bold:antialias=true
+URxvt*font:     xft:Monaco:size=9, xfg:FontAwesome:size=9, xft:Droid Sans Fallback:pixelsize=9:antialias=true
+URxvt*boldFont:     xft:Monaco:bold:size=9, xfg:FontAwesome:size=9, xft:Droid Sans Fallback:pixelsize=9:Bold:antialias=true
 
 !URxvt*font: -benis-lemon-medium-r-normal--10-110-75-75-*-50-*-*
 !URxvt*boldFont: -benis-lemon-medium-r-normal--10-110-75-75-*-50-*-*
