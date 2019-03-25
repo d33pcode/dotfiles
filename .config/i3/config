@@ -208,7 +208,7 @@ client.background       $bg
 ###########
 
 # disable window titlebars entirely
-for_window [class="^.*"] border pixel 1
+for_window [class="^.*"] border pixel 2
 
 
 gaps inner 10
@@ -220,4 +220,3 @@ bindsym $mod+Shift+u gaps outer current plus 5
 
 #######################################
 #######################################
-
