@@ -100,3 +100,5 @@ function homestead() {
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
         source /etc/profile.d/vte.sh
 fi
+
+#export ORACLE_HOME="/usr/local/lib/instantclient"
