@@ -101,9 +101,9 @@ if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
         source /etc/profile.d/vte.sh
 fi
 
-###  WAL  ###
 
 #export ORACLE_HOME="/usr/local/lib/instantclient"
+###  WAL  ###
 
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
@@ -116,3 +116,6 @@ fi
 # To add support for TTYs this line can be optionally added.
 source ~/.cache/wal/colors-tty.sh
 
+
+# useful when running urxvt
+alias ssh='TERM=xterm-256color ssh'
