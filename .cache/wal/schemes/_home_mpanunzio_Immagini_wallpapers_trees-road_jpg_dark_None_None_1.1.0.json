@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/trees-road.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1114",
+        "foreground": "#dfe0df",
+        "cursor": "#dfe0df"
+    },
+    "colors": {
+        "color0": "#0d1114",
+        "color1": "#4C4C49",
+        "color2": "#6A665F",
+        "color3": "#8D7457",
+        "color4": "#D7A351",
+        "color5": "#A8A7A4",
+        "color6": "#C3C1BC",
+        "color7": "#dfe0df",
+        "color8": "#9c9c9c",
+        "color9": "#4C4C49",
+        "color10": "#6A665F",
+        "color11": "#8D7457",
+        "color12": "#D7A351",
+        "color13": "#A8A7A4",
+        "color14": "#C3C1BC",
+        "color15": "#dfe0df"
+    }
+}

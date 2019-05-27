@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/forest-fog.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d111c",
+        "foreground": "#e7e6e7",
+        "cursor": "#e7e6e7"
+    },
+    "colors": {
+        "color0": "#0d111c",
+        "color1": "#897770",
+        "color2": "#8E817E",
+        "color3": "#A69B9C",
+        "color4": "#C5B9B6",
+        "color5": "#DBD7D8",
+        "color6": "#E0DDDE",
+        "color7": "#e7e6e7",
+        "color8": "#a1a1a1",
+        "color9": "#897770",
+        "color10": "#8E817E",
+        "color11": "#A69B9C",
+        "color12": "#C5B9B6",
+        "color13": "#DBD7D8",
+        "color14": "#E0DDDE",
+        "color15": "#e7e6e7"
+    }
+}

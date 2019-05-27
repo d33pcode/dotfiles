@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/mountains-digital.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020F28",
+        "foreground": "#eaccc3",
+        "cursor": "#eaccc3"
+    },
+    "colors": {
+        "color0": "#020F28",
+        "color1": "#EDB878",
+        "color2": "#1D6E8B",
+        "color3": "#5B728A",
+        "color4": "#2C94A6",
+        "color5": "#5BA5B1",
+        "color6": "#5ABFC9",
+        "color7": "#eaccc3",
+        "color8": "#a38e88",
+        "color9": "#EDB878",
+        "color10": "#1D6E8B",
+        "color11": "#5B728A",
+        "color12": "#2C94A6",
+        "color13": "#5BA5B1",
+        "color14": "#5ABFC9",
+        "color15": "#eaccc3"
+    }
+}

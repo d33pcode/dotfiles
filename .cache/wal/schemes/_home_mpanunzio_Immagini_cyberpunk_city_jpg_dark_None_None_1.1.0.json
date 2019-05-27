@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/cyberpunk_city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1417",
+        "foreground": "#cdd9dd",
+        "cursor": "#cdd9dd"
+    },
+    "colors": {
+        "color0": "#0B1417",
+        "color1": "#4D666C",
+        "color2": "#A1745C",
+        "color3": "#397188",
+        "color4": "#4F7888",
+        "color5": "#67929F",
+        "color6": "#69AAC7",
+        "color7": "#cdd9dd",
+        "color8": "#8f979a",
+        "color9": "#4D666C",
+        "color10": "#A1745C",
+        "color11": "#397188",
+        "color12": "#4F7888",
+        "color13": "#67929F",
+        "color14": "#69AAC7",
+        "color15": "#cdd9dd"
+    }
+}

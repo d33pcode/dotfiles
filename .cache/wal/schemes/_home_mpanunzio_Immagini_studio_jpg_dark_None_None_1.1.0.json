@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/studio.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0605",
+        "foreground": "#dacec4",
+        "cursor": "#dacec4"
+    },
+    "colors": {
+        "color0": "#0c0605",
+        "color1": "#955533",
+        "color2": "#BC5031",
+        "color3": "#976A57",
+        "color4": "#84797D",
+        "color5": "#AB8C6F",
+        "color6": "#E1B45A",
+        "color7": "#dacec4",
+        "color8": "#989089",
+        "color9": "#955533",
+        "color10": "#BC5031",
+        "color11": "#976A57",
+        "color12": "#84797D",
+        "color13": "#AB8C6F",
+        "color14": "#E1B45A",
+        "color15": "#dacec4"
+    }
+}

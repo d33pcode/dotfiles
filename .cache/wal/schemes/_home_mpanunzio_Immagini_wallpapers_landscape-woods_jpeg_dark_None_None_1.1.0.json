@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/landscape-woods.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0907",
+        "foreground": "#b8beba",
+        "cursor": "#b8beba"
+    },
+    "colors": {
+        "color0": "#0c0907",
+        "color1": "#535336",
+        "color2": "#416043",
+        "color3": "#596C4C",
+        "color4": "#926551",
+        "color5": "#698F5F",
+        "color6": "#939772",
+        "color7": "#b8beba",
+        "color8": "#808582",
+        "color9": "#535336",
+        "color10": "#416043",
+        "color11": "#596C4C",
+        "color12": "#926551",
+        "color13": "#698F5F",
+        "color14": "#939772",
+        "color15": "#b8beba"
+    }
+}

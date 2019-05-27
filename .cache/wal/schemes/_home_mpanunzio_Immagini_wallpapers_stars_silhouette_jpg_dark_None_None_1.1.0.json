@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/stars_silhouette.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1213",
+        "foreground": "#c2afc0",
+        "cursor": "#c2afc0"
+    },
+    "colors": {
+        "color0": "#0d1213",
+        "color1": "#493B4F",
+        "color2": "#344753",
+        "color3": "#635055",
+        "color4": "#955C34",
+        "color5": "#95695C",
+        "color6": "#866E85",
+        "color7": "#c2afc0",
+        "color8": "#877a86",
+        "color9": "#493B4F",
+        "color10": "#344753",
+        "color11": "#635055",
+        "color12": "#955C34",
+        "color13": "#95695C",
+        "color14": "#866E85",
+        "color15": "#c2afc0"
+    }
+}

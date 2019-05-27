@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/mountains.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0c0f",
+        "foreground": "#cdccbf",
+        "cursor": "#cdccbf"
+    },
+    "colors": {
+        "color0": "#0f0c0f",
+        "color1": "#AF6338",
+        "color2": "#C89054",
+        "color3": "#E29958",
+        "color4": "#7C8A92",
+        "color5": "#8C9697",
+        "color6": "#9DA396",
+        "color7": "#cdccbf",
+        "color8": "#8f8e85",
+        "color9": "#AF6338",
+        "color10": "#C89054",
+        "color11": "#E29958",
+        "color12": "#7C8A92",
+        "color13": "#8C9697",
+        "color14": "#9DA396",
+        "color15": "#cdccbf"
+    }
+}

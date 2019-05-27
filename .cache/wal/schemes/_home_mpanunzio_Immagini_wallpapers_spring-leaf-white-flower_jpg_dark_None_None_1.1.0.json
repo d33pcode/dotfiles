@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/spring-leaf-white-flower.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121211",
+        "foreground": "#9db9a2",
+        "cursor": "#9db9a2"
+    },
+    "colors": {
+        "color0": "#121211",
+        "color1": "#39663B",
+        "color2": "#466B36",
+        "color3": "#355A43",
+        "color4": "#3C6B48",
+        "color5": "#43754D",
+        "color6": "#54705C",
+        "color7": "#9db9a2",
+        "color8": "#6d8171",
+        "color9": "#39663B",
+        "color10": "#466B36",
+        "color11": "#355A43",
+        "color12": "#3C6B48",
+        "color13": "#43754D",
+        "color14": "#54705C",
+        "color15": "#9db9a2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/sea-drone-view.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#171513",
+        "foreground": "#cedbe3",
+        "cursor": "#cedbe3"
+    },
+    "colors": {
+        "color0": "#171513",
+        "color1": "#92654D",
+        "color2": "#A8856A",
+        "color3": "#237888",
+        "color4": "#2B94A2",
+        "color5": "#5E9CAD",
+        "color6": "#A3A8B0",
+        "color7": "#cedbe3",
+        "color8": "#90999e",
+        "color9": "#92654D",
+        "color10": "#A8856A",
+        "color11": "#237888",
+        "color12": "#2B94A2",
+        "color13": "#5E9CAD",
+        "color14": "#A3A8B0",
+        "color15": "#cedbe3"
+    }
+}

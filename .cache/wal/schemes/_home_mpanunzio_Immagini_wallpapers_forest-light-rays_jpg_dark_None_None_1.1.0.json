@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/forest-light-rays.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#22121e",
+        "foreground": "#d5dad1",
+        "cursor": "#d5dad1"
+    },
+    "colors": {
+        "color0": "#22121e",
+        "color1": "#474E50",
+        "color2": "#546C64",
+        "color3": "#658E69",
+        "color4": "#8CA66E",
+        "color5": "#70918B",
+        "color6": "#9BA9A3",
+        "color7": "#d5dad1",
+        "color8": "#959892",
+        "color9": "#474E50",
+        "color10": "#546C64",
+        "color11": "#658E69",
+        "color12": "#8CA66E",
+        "color13": "#70918B",
+        "color14": "#9BA9A3",
+        "color15": "#d5dad1"
+    }
+}

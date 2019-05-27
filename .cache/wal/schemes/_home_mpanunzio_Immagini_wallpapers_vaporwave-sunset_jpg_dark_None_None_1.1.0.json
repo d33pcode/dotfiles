@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/vaporwave-sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010313",
+        "foreground": "#f479f4",
+        "cursor": "#f479f4"
+    },
+    "colors": {
+        "color0": "#010313",
+        "color1": "#D00456",
+        "color2": "#29A06B",
+        "color3": "#352EBE",
+        "color4": "#5F1399",
+        "color5": "#B313D2",
+        "color6": "#E00FED",
+        "color7": "#f479f4",
+        "color8": "#aa54aa",
+        "color9": "#D00456",
+        "color10": "#29A06B",
+        "color11": "#352EBE",
+        "color12": "#5F1399",
+        "color13": "#B313D2",
+        "color14": "#E00FED",
+        "color15": "#f479f4"
+    }
+}

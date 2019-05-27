@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mpanunzio/Immagini/wallpapers/palms.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07090D",
+        "foreground": "#ecd2dc",
+        "cursor": "#ecd2dc"
+    },
+    "colors": {
+        "color0": "#07090D",
+        "color1": "#CDADAB",
+        "color2": "#EFAAB5",
+        "color3": "#9F9FD4",
+        "color4": "#8EA4D8",
+        "color5": "#CF9BC4",
+        "color6": "#D2ACD0",
+        "color7": "#ecd2dc",
+        "color8": "#a5939a",
+        "color9": "#CDADAB",
+        "color10": "#EFAAB5",
+        "color11": "#9F9FD4",
+        "color12": "#8EA4D8",
+        "color13": "#CF9BC4",
+        "color14": "#D2ACD0",
+        "color15": "#ecd2dc"
+    }
+}

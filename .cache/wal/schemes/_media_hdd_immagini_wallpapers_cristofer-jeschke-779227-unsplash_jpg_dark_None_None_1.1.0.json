@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/media/hdd/immagini/wallpapers/cristofer-jeschke-779227-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d0f",
+        "foreground": "#bfb9b4",
+        "cursor": "#bfb9b4"
+    },
+    "colors": {
+        "color0": "#0a0d0f",
+        "color1": "#4E4736",
+        "color2": "#6B4D34",
+        "color3": "#2F3E42",
+        "color4": "#39484B",
+        "color5": "#575B55",
+        "color6": "#906A4D",
+        "color7": "#bfb9b4",
+        "color8": "#85817d",
+        "color9": "#4E4736",
+        "color10": "#6B4D34",
+        "color11": "#2F3E42",
+        "color12": "#39484B",
+        "color13": "#575B55",
+        "color14": "#906A4D",
+        "color15": "#bfb9b4"
+    }
+}
